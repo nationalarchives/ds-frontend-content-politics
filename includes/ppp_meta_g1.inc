@@ -1,0 +1,6 @@
+<meta name="DC.title" content="The National Archives Learning Curve | Power, Politics and Protest |  Politics Today and in 1800" />
+<meta name="DC.subject" content="Britain, political, reform, politics, nineteenth, 19th, century, rights, democracy, democratic, voting, constituency, election, MP, voter, vote, parliament, primary, source, George III, population, work, economy, education, life, activity, change, investigation, record" />
+<meta name="keywords" content="Britain, political, reform, politics, nineteenth, 19th, century, rights, democracy, democratic, voting, constituency, election, MP, voter, vote, parliament, primary, source, George III, population, work, economy, education, life, activity, change, investigation, record, historical, history">
+<meta name="DCTERMS.temporal" content="1800-present" />
+<meta name="DC.description" content="This gallery considers how political rights have changed in Britain since 1800 and how to carry out an historical investigation">
+<meta name="description" content="This gallery considers how political rights have changed in Britain since 1800 and how to carry out an historical investigation">

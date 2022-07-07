@@ -1,0 +1,6 @@
+<meta name="DC.title" content="The National Archives Learning Curve | Power, Politics and Protest |  Suffragettes" />
+<meta name="DC.subject" content="Britain, political, reform, politics, nineteenth, 19th, century, rights, democracy, democratic, voting, constituency, election, MP, voter, vote, parliament, primary, source, protest, union, equal, voting, women, national, suffrage, societies, NUWSS, Pankhurst, Christabel, Emmeline, Millicent Fawcett, Emily Davison, Wilding, suffragette, WSPU, social, militant" />
+<meta name="keywords" content="Britain, political, reform, politics, nineteenth, 19th, century, rights, democracy, democratic, voting, constituency, election, MP, voter, vote, parliament, primary, source, protest, union, equal, voting, women, national, suffrage, societies, NUWSS, Pankhurst, Christabel, Emmeline, Millicent Fawcett, Emily Davison, Wilding, suffragette, WSPU, social, militant"/>
+<meta name="DCTERMS.temporal" content="1860-1920" />
+<meta name="DC.description" content="This gallery explores what political rights women had in 19th century Britain and whether there were any changes"/>
+<meta name="description" content="This gallery explores what political rights women had in 19th century Britain and whether there were any changes"/>

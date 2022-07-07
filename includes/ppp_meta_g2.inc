@@ -1,0 +1,6 @@
+<meta name="DC.title" content="The National Archives Learning Curve | Power, Politics and Protest |  The Radicals" />
+<meta name="DC.subject" content="Britain, political, reform, politics, nineteenth, 19th, century, rights, democracy, democratic, voting, constituency, election, MP, voter, vote, parliament, primary, source, radicals, government, revolution, France, French, Thomas Paine, Thomas Hardy, London Corresponding Society" />
+<meta name="keywords" content="Britain, political, reform, politics, nineteenth, 19th, century, rights, democracy, democratic, voting, constituency, election, MP, voter, vote, parliament, primary, source, radicals, government, revolution, France, French, Thomas Paine, Thomas Hardy, London Corresponding Society"/>
+<meta name="DCTERMS.temporal" content="1780-1800" />
+<meta name="DC.description" content="This gallery explores the group of people known as the Radicals, including Thomas Paine, and Thomas Hardy, and what their greivances with the political system were"/>
+<meta name="description" content="This gallery explores the group of people known as the Radicals, including Thomas Paine, and Thomas Hardy, and what their greivances with the political system were"/>

@@ -1,0 +1,1 @@
+<meta name="DC.identifier" scheme="DCTERMS.URI" content="http://www.nationalarchives.gov.uk/education/politics/g7/source/g7s2.htm" />
